@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512764424630",
+    "firebase_url": "https://chat-c168c.firebaseio.com",
+    "project_id": "chat-c168c",
+    "storage_bucket": "chat-c168c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512764424630:android:fd3801cef8ab71804a5117",
+        "android_client_info": {
+          "package_name": "com.example.chattcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512764424630-okjk82151ar5pkhjqp2iae3on26k8vne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattcc",
+            "certificate_hash": "bfb9123c21b6eaa7e15d8c5e076bf2c8d08871f0"
+          }
+        },
+        {
+          "client_id": "512764424630-fh39be06n9b5kdl036j2j42j6ci01pn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs27_UB5RrfOOXeOEZcMuzRAtqSyTakC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512764424630-fh39be06n9b5kdl036j2j42j6ci01pn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
